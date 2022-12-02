@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Night" type="Button"]
+margin_top = 96.0
+margin_right = 159.0
+margin_bottom = 116.0
+text = "Night"

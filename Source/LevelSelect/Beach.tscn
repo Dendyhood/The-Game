@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Beach" type="Button"]
+margin_top = 72.0
+margin_right = 159.0
+margin_bottom = 92.0
+text = "Beach"
